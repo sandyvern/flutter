@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+
+# We will be using Devise for authentication and user accounts.
+gem 'devise'
 # For Twitter UI Components
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
