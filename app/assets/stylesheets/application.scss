@@ -14,3 +14,23 @@
  */
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+body {
+    background-color: #f5f8fa;
+}
+
+.navbar {
+    background-color: #ffffff;
+}
+
+.navbar-form .form-control {
+    background-color: #f5f8fa;
+    border: 1px solid #e1e8ed;
+    border-radius: 21px;
+}
+
+.navbar-brand {
+    position: absolute;
+    left: 50%;
+}
+
